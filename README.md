@@ -55,14 +55,14 @@ workflows.
 - 🏥 Real-time ICU patient monitoring
 - 📊 Clinical dashboard and patient workspace
 - 🤖 Machine learning-based clinical risk prediction
-- 🔍 Explainable AI with SHAP
+- 🔍 Explainable AI
 - 🧠 AI-assisted clinical decision support
 - ⚡ Real-time updates using WebSockets
-- 🔌 Scalable FastAPI backend architecture
+- 🔌 FastAPI backend architecture
 - 🗄️ Structured clinical data persistence
 - 🐳 Containerized deployment
 
-**Repository:** `Sumeet2005/IntelliICU`
+🔗 **Repository:** https://github.com/Sumeet2005/IntelliICU
 
 ---
 
@@ -90,7 +90,7 @@ telemetry, and production-ready deployment.
 - ⚙️ Production-oriented architecture
 - 🔗 Knowledge-grounded responses
 
-**Repository:** `Sumeet2005/AI-Knowledge-Chatbot`
+🔗 **Repository:** https://github.com/Sumeet2005/AI-Knowledge-Chatbot
 
 ---
 
@@ -98,8 +98,8 @@ telemetry, and production-ready deployment.
 
 ### AI-Powered Pharmaceutical Complaint Management
 
-An AI-powered complaint management system combining modern frontend development,
-backend APIs, LLM workflows, and structured data persistence.
+An AI-powered pharmaceutical complaint management system combining modern
+frontend development, backend APIs, LLM workflows, and structured data persistence.
 
 **Core Technologies**
 
@@ -115,7 +115,7 @@ backend APIs, LLM workflows, and structured data persistence.
 - 🧠 LLM integration
 - 📋 Structured complaint management
 
-**Repository:** `Sumeet2005/ai-pharmaceutical-complaint-system`
+🔗 **Repository:** https://github.com/Sumeet2005/ai-pharmaceutical-complaint-system
 
 ---
 
@@ -126,7 +126,7 @@ backend APIs, LLM workflows, and structured data persistence.
 ### Predictive Analytics & Sales Forecasting
 
 A data science project focused on forecasting future sales using historical
-data, preprocessing, feature engineering, visualization, and predictive modeling.
+data, data preprocessing, feature engineering, visualization, and predictive modeling.
 
 **Core Technologies**
 
@@ -142,7 +142,7 @@ data, preprocessing, feature engineering, visualization, and predictive modeling
 - 📈 Sales forecasting
 - 📋 Data-driven insights
 
-**Repository:** `Sumeet2005/Sales-Prediction-using-Data-Science`
+🔗 **Repository:** https://github.com/Sumeet2005/Sales-Prediction-using-Data-Science
 
 ---
 
@@ -168,7 +168,7 @@ healthcare data.
 - 💡 Business-oriented insights
 - 📋 Data-driven reporting
 
-**Repository:** `Sumeet2005/HealthCareDashboard-Using-Power-Bi`
+🔗 **Repository:** https://github.com/Sumeet2005/HealthCareDashboard-Using-Power-Bi
 
 ---
 
@@ -185,7 +185,7 @@ and blockchain-based certificate verification.
 
 `Python` `AI/ML` `NLP` `Solidity` `Web3`
 
-**Key Features**
+**Key Areas**
 
 - 📄 Resume analysis
 - 🎯 ATS scoring
@@ -195,7 +195,7 @@ and blockchain-based certificate verification.
 - ⛓️ Smart contract integration
 - 📋 Automated resume insights
 
-**Repository:** `Sumeet2005/Smart_resume_analyzer_with_Blockchain_certification`
+🔗 **Repository:** https://github.com/Sumeet2005/Smart_resume_analyzer_with_Blockchain_certification
 
 ---
 
@@ -278,29 +278,16 @@ clean architecture, APIs, databases, scalability, and production deployment.
 
 ---
 
-# 📊 GitHub Stats
+# 📌 GitHub Highlights
 
-<div align="center">
-
-### GitHub Overview
-
-![](https://github-readme-stats.vercel.app/api?username=Sumeet2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-### Most Used Technologies
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumeet2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-![](https://streak-stats.demolab.com?user=Sumeet2005&theme=github-dark-blue&hide_border=true)
-
-</div>
+- 📦 **25+ public repositories** covering AI/ML, Data Science, Data Analytics,
+  Backend Engineering, and Software Engineering
+- 🤖 AI/ML projects involving Generative AI, RAG, clinical AI, NLP, and intelligent applications
+- 📊 Data Science projects involving predictive modeling and data analysis
+- 📈 Data Analytics work involving Power BI, DAX, Power Query, and dashboards
+- ⚙️ Backend projects using FastAPI, REST APIs, WebSockets, PostgreSQL, and other databases
+- 💻 Software projects using Python, JavaScript, TypeScript, React, Git, and Docker
+- 🚀 Production-oriented development with containerization and cloud deployment
 
 ---
 
