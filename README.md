@@ -2,6 +2,13 @@
 
 ### AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
 
+<div align="center">
+
+🌐 **[View My Portfolio](YOUR_PORTFOLIO_LINK)**  
+💻 **[GitHub Profile](https://github.com/Sumeet2005)**
+
+</div>
+
 I build data-driven and AI-powered software systems that combine Machine Learning,
 Generative AI, data analytics, backend engineering, and modern software development.
 
