@@ -2,21 +2,11 @@
 
 # 👋 Hi, I'm Sumeet Sonar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&center=true&vCenter=true&width=950&lines=AI%2FML+Engineer;Generative+AI+Engineer;Backend+Engineer;Data+Science+%26+Analytics;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production-Oriented+AI+Systems;Turning+Data+Into+Intelligent+Applications" alt="Typing SVG" />
-
-<br/>
-
 ### 🤖 AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Engineer;Data+Science+%26+Analytics;Backend+%26+Software+Engineering;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production-Ready+AI+Systems;Turning+Data+Into+Intelligent+Applications" alt="Typing SVG" />
 
-<p>
-I build <b>AI-powered, data-driven and production-oriented software systems</b>
-that combine machine learning, generative AI, intelligent retrieval,
-backend engineering, databases and modern application development.
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://sumeet-portfolio-orcin.vercel.app">
 <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-EXPLORE_MY_WORK-00C853?style=for-the-badge&labelColor=111827" />
@@ -28,80 +18,39 @@ backend engineering, databases and modern application development.
 
 <br/><br/>
 
-<a href="#-about-me">👨‍💻 About</a>
+<a href="#about">👨‍💻 About</a>
 &nbsp; • &nbsp;
-<a href="#-what-i-work-on">🧠 Expertise</a>
+<a href="#expertise">🧠 Expertise</a>
 &nbsp; • &nbsp;
-<a href="#-featured-projects">🚀 Projects</a>
+<a href="#projects">🚀 Projects</a>
 &nbsp; • &nbsp;
-<a href="#-tech-stack">🛠️ Tech Stack</a>
+<a href="#tech-stack">🛠️ Tech Stack</a>
 &nbsp; • &nbsp;
-<a href="#-experience">💼 Experience</a>
+<a href="#experience">💼 Experience</a>
 &nbsp; • &nbsp;
-<a href="#-connect-with-me">🤝 Connect</a>
+<a href="#github">📊 GitHub</a>
+&nbsp; • &nbsp;
+<a href="#contact">🤝 Connect</a>
 
 </div>
 
 ---
 
-# 🧭 PROFILE COMMAND CENTER
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<h3>🤖 AI / ML</h3>
-Machine Learning<br/>
-Deep Learning<br/>
-Predictive Modeling
-</td>
-
-<td align="center">
-<h3>🧠 GenAI</h3>
-LLMs<br/>
-RAG<br/>
-AI Agents
-</td>
-
-<td align="center">
-<h3>🔎 Retrieval</h3>
-Semantic Search<br/>
-Hybrid Retrieval<br/>
-Vector Search
-</td>
-
-<td align="center">
-<h3>⚙️ Backend</h3>
-FastAPI<br/>
-Django<br/>
-REST APIs
-</td>
-
-<td align="center">
-<h3>📊 Data</h3>
-Python<br/>
-SQL<br/>
-Power BI
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### 🌐 [Explore My Complete Portfolio](https://sumeet-portfolio-orcin.vercel.app)
-
-### 💻 [Explore My GitHub](https://github.com/Sumeet2005)
-
-</div>
-
----
+<a id="about"></a>
 
 # 👨‍💻 ABOUT ME
 
-I build **data-driven and AI-powered software systems** that combine:
+<div align="center">
+
+### 🤖 AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
+
+</div>
+
+I build **AI-powered, data-driven and production-oriented software systems**
+that combine machine learning, generative AI, intelligent retrieval,
+backend engineering, databases and modern application development.
+
+My interests sit at the intersection of:
 
 ```text
 Artificial Intelligence
@@ -110,12 +59,16 @@ Machine Learning
         +
 Generative AI
         +
-Retrieval Systems
+Large Language Models
+        +
+RAG / Information Retrieval
+        +
+AI Agents
+        +
+Data Science
+        +
+Data Analytics
         +
 Backend Engineering
         +
-Data Engineering
-        +
-Modern Frontend
-        +
-Production Deployment
+Software Engineering
