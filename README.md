@@ -2,83 +2,87 @@
 
 # 👋 Hi, I'm Sumeet Sonar
 
-### 🤖 AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
+### AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Engineer;Data+Science+%26+Analytics;Backend+%26+Software+Engineering;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production-Oriented+AI+Systems;Turning+Data+Into+Intelligent+Applications" alt="Typing SVG" />
-
-<br/>
-
-I build **AI-powered, data-driven and production-oriented software systems**
-that combine machine learning, generative AI, intelligent retrieval,
-backend engineering, databases and modern application development.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Engineer;Data+Science+%26+Analytics;Backend+%26+Software+Engineering;LLMs+%7C+RAG+%7C+AI+Agents;Building+Production-Oriented+AI+Systems;Turning+Data+Into+Intelligent+Applications"
+  alt="Typing introduction"
+/>
 
 <br/>
 
-**Portfolio:**  
+I build data-driven and AI-powered software systems that combine
+Machine Learning, Generative AI, data analytics, backend engineering,
+and modern software development.
+
+<br/><br/>
+
+**Portfolio**
+
 https://sumeet-portfolio-orcin.vercel.app
 
-**GitHub:**  
+<br/>
+
+**GitHub**
+
 https://github.com/Sumeet2005
 
 </div>
 
 ---
 
-<a id="navigation"></a>
+<a id="contents"></a>
 
-# 🧭 NAVIGATION
+# 🧭 Contents
 
-- [About Me](#about-me)
-- [What I Work On](#what-i-work-on)
-- [Engineering Approach](#engineering-approach)
-- [Featured Projects](#featured-projects)
-- [AI / ML Engineering](#ai--ml-engineering)
-- [Generative AI](#generative-ai)
-- [RAG & Information Retrieval](#rag--information-retrieval)
-- [Backend Engineering](#backend-engineering)
-- [Data Science & Analytics](#data-science--analytics)
-- [Tech Stack](#tech-stack)
-- [Project Capability Matrix](#project-capability-matrix)
-- [Experience](#experience)
-- [Education](#education)
-- [Current Learning](#current-learning)
-- [Professional Direction](#professional-direction)
-- [GitHub](#github)
-- [Portfolio](#portfolio)
-- [Engineering Philosophy](#engineering-philosophy)
-- [Connect](#connect)
+| Section | Description |
+|:---|:---|
+| 👨‍💻 [About Me](#about-me) | Who I am and what I build |
+| 🧠 [What I Work On](#what-i-work-on) | Core technical areas |
+| 🏗️ [Engineering Approach](#engineering-approach) | How I design systems |
+| 🚀 [Featured Projects](#featured-projects) | Main AI/ML and software projects |
+| 🤖 [AI / ML](#ai--ml-engineering) | Machine learning capabilities |
+| 🧠 [Generative AI](#generative-ai) | LLM and GenAI work |
+| 🔎 [RAG](#rag--information-retrieval) | Retrieval systems |
+| ⚙️ [Backend](#backend-engineering) | Backend and API engineering |
+| 📊 [Data](#data-science--analytics) | Data science and analytics |
+| 🛠️ [Tech Stack](#tech-stack) | Technologies and tools |
+| 📊 [Project Matrix](#project-capability-matrix) | Technology comparison |
+| 💼 [Experience](#experience) | Professional experience |
+| 🎓 [Education](#education) | Academic background |
+| 🌱 [Learning](#current-learning) | Current technical focus |
+| 📈 [GitHub](#github) | GitHub activity |
+| 🌐 [Portfolio](#portfolio) | Complete portfolio |
+| 🤝 [Connect](#connect) | Contact and profiles |
 
 ---
 
 <a id="about-me"></a>
 
-# 👨‍💻 ABOUT ME
+# 👨‍💻 About Me
 
-I am an **AI/ML Engineer with a strong interest in Generative AI,
-Data Science, Backend Engineering and Software Development**.
+I am an **AI/ML Engineer with interests across Generative AI,
+Data Science, Data Analytics, Backend Engineering and Software Development**.
 
-I enjoy building systems where different engineering components work
-together rather than developing isolated models or simple prototypes.
+I enjoy building complete systems rather than isolated models.
 
-My work combines:
+My work connects:
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-Large Language Models
-        ↓
-RAG / Information Retrieval
-        ↓
-AI Agents
-        ↓
-Backend Engineering
-        ↓
+Data
+  ↓
+Data Processing
+  ↓
+Machine Learning / AI
+  ↓
+Generative AI / LLMs
+  ↓
+Retrieval
+  ↓
+Backend APIs
+  ↓
 Databases
-        ↓
+  ↓
 Frontend Applications
-        ↓
+  ↓
 Deployment
