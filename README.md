@@ -11,19 +11,17 @@
 
 <br/>
 
-I build data-driven and AI-powered software systems that combine
+I build **data-driven and AI-powered software systems** that combine
 Machine Learning, Generative AI, data analytics, backend engineering,
 and modern software development.
 
-<br/><br/>
+<br/>
 
-**Portfolio**
+### 🌐 Portfolio
 
 https://sumeet-portfolio-orcin.vercel.app
 
-<br/>
-
-**GitHub**
+### 💻 GitHub
 
 https://github.com/Sumeet2005
 
@@ -31,29 +29,27 @@ https://github.com/Sumeet2005
 
 ---
 
-<a id="contents"></a>
+# 🧭 Quick Navigation
 
-# 🧭 Contents
-
-| Section | Description |
+| Section | Explore |
 |:---|:---|
-| 👨‍💻 [About Me](#about-me) | Who I am and what I build |
-| 🧠 [What I Work On](#what-i-work-on) | Core technical areas |
-| 🏗️ [Engineering Approach](#engineering-approach) | How I design systems |
-| 🚀 [Featured Projects](#featured-projects) | Main AI/ML and software projects |
-| 🤖 [AI / ML](#ai--ml-engineering) | Machine learning capabilities |
-| 🧠 [Generative AI](#generative-ai) | LLM and GenAI work |
-| 🔎 [RAG](#rag--information-retrieval) | Retrieval systems |
-| ⚙️ [Backend](#backend-engineering) | Backend and API engineering |
-| 📊 [Data](#data-science--analytics) | Data science and analytics |
-| 🛠️ [Tech Stack](#tech-stack) | Technologies and tools |
-| 📊 [Project Matrix](#project-capability-matrix) | Technology comparison |
-| 💼 [Experience](#experience) | Professional experience |
-| 🎓 [Education](#education) | Academic background |
-| 🌱 [Learning](#current-learning) | Current technical focus |
-| 📈 [GitHub](#github) | GitHub activity |
-| 🌐 [Portfolio](#portfolio) | Complete portfolio |
-| 🤝 [Connect](#connect) | Contact and profiles |
+| 👨‍💻 About Me | My background and interests |
+| 🧠 What I Work On | Core technical domains |
+| 🏗️ Engineering Approach | How I build systems |
+| 🚀 Featured Projects | Main projects |
+| 🤖 AI / ML | Machine learning capabilities |
+| 🧠 Generative AI | LLM and GenAI capabilities |
+| 🔎 RAG | Retrieval and knowledge systems |
+| ⚙️ Backend | APIs and backend engineering |
+| 📊 Data | Data science and analytics |
+| 🛠️ Tech Stack | Technologies I work with |
+| 📊 Project Matrix | Technology comparison |
+| 💼 Experience | Professional experience |
+| 🎓 Education | Academic background |
+| 🌱 Current Focus | Current learning direction |
+| 📈 GitHub | GitHub activity |
+| 🌐 Portfolio | Complete portfolio |
+| 🤝 Connect | Find me online |
 
 ---
 
@@ -61,28 +57,38 @@ https://github.com/Sumeet2005
 
 # 👨‍💻 About Me
 
-I am an **AI/ML Engineer with interests across Generative AI,
-Data Science, Data Analytics, Backend Engineering and Software Development**.
+I am an **AI/ML Engineer with interests across Data Science,
+Generative AI, Data Analytics, Backend Engineering, and Software Development**.
 
-I enjoy building complete systems rather than isolated models.
+I enjoy building practical systems that connect data, intelligence,
+backend services, databases, and user-facing applications.
 
-My work connects:
+My development approach can be represented as:
 
 ```text
-Data
-  ↓
-Data Processing
-  ↓
-Machine Learning / AI
-  ↓
-Generative AI / LLMs
-  ↓
-Retrieval
-  ↓
-Backend APIs
-  ↓
-Databases
-  ↓
-Frontend Applications
-  ↓
-Deployment
+                    REAL-WORLD PROBLEM
+                           │
+                           ▼
+                         DATA
+                           │
+                           ▼
+                  DATA PROCESSING
+                           │
+                           ▼
+                ┌────────────────────┐
+                │    INTELLIGENCE    │
+                │                    │
+                │  ML / AI / LLM/RAG │
+                └─────────┬──────────┘
+                          │
+                          ▼
+                       BACKEND
+                          │
+                          ▼
+                       DATABASE
+                          │
+                          ▼
+                      FRONTEND
+                          │
+                          ▼
+                      DEPLOYMENT
