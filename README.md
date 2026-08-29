@@ -4,28 +4,20 @@
 
 ### AI/ML Engineer | Data Science | Generative AI | Backend & Software Engineering
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;Data+Science+%7C+Data+Analytics;FastAPI+%7C+React+%7C+PostgreSQL;Turning+Ideas+Into+Real-World+Applications"
-  alt="Animated introduction"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;Data+Science+%7C+Data+Analytics;FastAPI+%7C+React+%7C+PostgreSQL;Turning+Ideas+Into+Real-World+Applications" alt="Animated Introduction"/>
 
 <br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"
-  width="75%"
-  alt=""
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=58A6FF" width="70%" alt=""/>
 
-<br/>
-
-### 🧠 I Build At The Intersection Of
+<br/><br/>
 
 <table>
 <tr>
 <td align="center" width="20%">
 
 ### 🤖
+
 **AI / ML**
 
 Machine Learning  
@@ -37,7 +29,8 @@ Explainable AI
 <td align="center" width="20%">
 
 ### 🧠
-**GenAI**
+
+**Generative AI**
 
 LLMs  
 RAG  
@@ -48,6 +41,7 @@ AI Agents
 <td align="center" width="20%">
 
 ### 📊
+
 **Data**
 
 Data Science  
@@ -59,6 +53,7 @@ Visualization
 <td align="center" width="20%">
 
 ### ⚙️
+
 **Backend**
 
 FastAPI  
@@ -70,6 +65,7 @@ REST APIs
 <td align="center" width="20%">
 
 ### 🚀
+
 **Engineering**
 
 React  
@@ -82,19 +78,17 @@ Cloud
 
 <br/>
 
----
-
-### 🌐 Portfolio
-
-https://sumeet-portfolio-orcin.vercel.app
-
-### 💻 GitHub
-
-https://github.com/Sumeet2005
-
----
-
 ### ⚡ Currently Exploring
 
 ```text
-Generative AI → LLMs → RAG → AI Agents → Backend → Production AI
+Generative AI
+      ↓
+     LLMs
+      ↓
+     RAG
+      ↓
+  AI Agents
+      ↓
+Backend Systems
+      ↓
+ Production AI
